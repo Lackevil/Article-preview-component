@@ -19,8 +19,8 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [solution]()
-- Live Site URL: [live]()
+- Solution URL: [solution](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT/hub)
+- Live Site URL: [live](https://lackevil.github.io/Article-preview-component/)
 
 ## My process
 
