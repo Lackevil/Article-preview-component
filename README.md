@@ -22,8 +22,6 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 - Solution URL: [solution](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT/hub)
 - Live Site URL: [live](https://lackevil.github.io/Article-preview-component/)
 
-## My process
-
 ### Built with
 
 - Semantic, Validate HTML5 markup
